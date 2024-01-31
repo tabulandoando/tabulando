@@ -1,2 +1,2 @@
 # tabulando
-sobre mi
+Estudiante de seundo curso de DAM
